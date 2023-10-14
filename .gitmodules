@@ -4,3 +4,12 @@
 [submodule "webl3:LazyApp"]
 	path = webl3:LazyApp
 	url = https://github.com/punitkr03/Lazy-App.git
+[submodule "webl2:ToDoList"]
+	path = webl2:ToDoList
+	url = https://github.com/zakhaev26/Task-Tracker-App.git
+[submodule "webl3:OnlineIDE"]
+	path = webl3:OnlineIDE
+	url = https://github.com/zakhaev26/OiDE-compiler.git
+[submodule "webl1:SpotifyClone"]
+	path = webl1:SpotifyClone
+	url = https://github.com/zakhaev26/Spotify-Clone.git
