@@ -22,3 +22,6 @@
 [submodule "appl2:FestFusion"]
 	path = appl2:FestFusion
 	url = https://github.com/Divyakumar21202/FestFusion.git
+[submodule "webl3:Tunescape"]
+	path = webl3:Tunescape
+	url = https://github.com/majorbruteforce/Tunescape.git
