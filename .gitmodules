@@ -13,3 +13,12 @@
 [submodule "webl1:SpotifyClone"]
 	path = webl1:SpotifyClone
 	url = https://github.com/zakhaev26/Spotify-Clone.git
+[submodule "appl2:BloodStreaming"]
+	path = appl2:BloodStreaming
+	url = https://github.com/Divyakumar21202/BloodStreaming.git
+[submodule "appl1:WeatherApp"]
+	path = appl1:WeatherApp
+	url = https://github.com/Divyakumar21202/Weather-App.git
+[submodule "appl2:FestFusion"]
+	path = appl2:FestFusion
+	url = https://github.com/Divyakumar21202/FestFusion.git
