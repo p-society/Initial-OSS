@@ -1,3 +1,6 @@
 [submodule "webl4:Tunescape"]
 	path = webl4:Tunescape
 	url = https://github.com/majorbruteforce/Tunescape.git
+[submodule "webl3:LazyApp"]
+	path = webl3:LazyApp
+	url = https://github.com/punitkr03/Lazy-App.git
