@@ -1,4 +1,8 @@
-//this code prints hello world :D
+/*
+Name: Soubhik Gon
+ID  : B422056
+This Code Prints Hello World in Go :D
+*/
 
 package main
 
